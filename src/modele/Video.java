@@ -16,8 +16,9 @@ public class Video implements Interactionnable {
 	
 	//the number of likes
 	private Integer nbrLikes;
-	//number of dislikes
 	
+	//number of dislikes
+	//to add
 	
 	
 	private String lastComment;
